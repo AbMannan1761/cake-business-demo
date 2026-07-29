@@ -1,5 +1,4 @@
 import { NavLink } from 'react-router-dom';
-import { Menu } from 'lucide-react';
 
 function Navbar() {
   return (
@@ -12,7 +11,7 @@ function Navbar() {
         <NavLink to="/contact" className={({isActive}) => isActive ? "active" : ""}>Contact</NavLink>
       </div>
       <div className="nav-mobile-toggle">
-        <Menu size={24} color="var(--primary-color)" />
+        🍔
       </div>
     </nav>
   );
