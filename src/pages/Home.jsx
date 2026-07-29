@@ -16,21 +16,27 @@ function Home() {
         <h2 className="section-title">Fresh from the Oven</h2>
         <div className="menu-grid" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '2rem' }}>
           <div className="menu-item" style={{ boxShadow: 'none' }}>
-            <div className="menu-img-placeholder" style={{ backgroundColor: '#e8d5c8', color: '#b87a5d' }}>🍰</div>
+            <div className="menu-img-placeholder" style={{ backgroundColor: '#e8d5c8' }}>
+              <img src="https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=600" alt="Custom Designs" />
+            </div>
             <div className="menu-info" style={{ padding: '1rem' }}>
               <h3 style={{ fontSize: '1.2rem' }}>Custom Designs</h3>
               <p style={{ fontSize: '0.9rem', opacity: 0.8 }}>Tailored to your exact vision</p>
             </div>
           </div>
           <div className="menu-item" style={{ boxShadow: 'none' }}>
-            <div className="menu-img-placeholder" style={{ backgroundColor: '#e8d5c8', color: '#b87a5d' }}>✨</div>
+            <div className="menu-img-placeholder" style={{ backgroundColor: '#e8d5c8' }}>
+              <img src="https://images.unsplash.com/photo-1557925923-33b251d59648?auto=format&fit=crop&q=80&w=600" alt="Premium Ingredients" />
+            </div>
             <div className="menu-info" style={{ padding: '1rem' }}>
               <h3 style={{ fontSize: '1.2rem' }}>Premium Ingredients</h3>
               <p style={{ fontSize: '0.9rem', opacity: 0.8 }}>Only the finest chocolate & vanilla</p>
             </div>
           </div>
           <div className="menu-item" style={{ boxShadow: 'none' }}>
-            <div className="menu-img-placeholder" style={{ backgroundColor: '#e8d5c8', color: '#b87a5d' }}>🎉</div>
+            <div className="menu-img-placeholder" style={{ backgroundColor: '#e8d5c8' }}>
+              <img src="https://images.unsplash.com/photo-1559620192-032c4bc4674e?auto=format&fit=crop&q=80&w=600" alt="Any Occasion" />
+            </div>
             <div className="menu-info" style={{ padding: '1rem' }}>
               <h3 style={{ fontSize: '1.2rem' }}>Any Occasion</h3>
               <p style={{ fontSize: '0.9rem', opacity: 0.8 }}>Weddings, Birthdays & more</p>

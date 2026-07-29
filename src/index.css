@@ -227,6 +227,18 @@ main {
   justify-content: center;
   color: white;
   font-size: 3rem;
+  overflow: hidden;
+}
+
+.menu-img-placeholder img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+.menu-item:hover .menu-img-placeholder img {
+  transform: scale(1.05);
 }
 
 .menu-info {
