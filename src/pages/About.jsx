@@ -5,7 +5,7 @@ function About() {
       <div className="about-container">
         <div className="about-image">
           <div style={{ width: '100%', height: '400px', backgroundColor: 'var(--secondary-color)', display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden' }}>
-            <img src="https://images.unsplash.com/photo-1581339399838-2a120bff7fa3?auto=format&fit=crop&q=80&w=800" alt="Baker" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+            <img src="https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&q=80&w=800" alt="Baker" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
           </div>
         </div>
         <div className="about-text">
