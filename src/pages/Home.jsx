@@ -26,7 +26,7 @@ function Home() {
           </div>
           <div className="menu-item" style={{ boxShadow: 'none' }}>
             <div className="menu-img-placeholder" style={{ backgroundColor: '#e8d5c8' }}>
-              <img src="https://images.unsplash.com/photo-1557925923-33b251d59648?auto=format&fit=crop&q=80&w=600" alt="Premium Ingredients" />
+              <img src="https://images.unsplash.com/photo-1579306194872-64d3b7bac4c2?auto=format&fit=crop&q=80&w=600" alt="Premium Ingredients" />
             </div>
             <div className="menu-info" style={{ padding: '1rem' }}>
               <h3 style={{ fontSize: '1.2rem' }}>Premium Ingredients</h3>

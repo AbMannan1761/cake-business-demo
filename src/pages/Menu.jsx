@@ -1,7 +1,7 @@
 function Menu() {
   const cakes = [
     { name: "Classic Vanilla Bean", price: "From $45", desc: "Light, fluffy vanilla sponge layered with silky vanilla bean buttercream.", img: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&q=80&w=600" },
-    { name: "Decadent Dark Chocolate", price: "From $55", desc: "Rich chocolate cake with dark chocolate ganache and chocolate curls.", img: "https://images.unsplash.com/photo-1557925923-33b251d59648?auto=format&fit=crop&q=80&w=600" },
+    { name: "Decadent Dark Chocolate", price: "From $55", desc: "Rich chocolate cake with dark chocolate ganache and chocolate curls.", img: "https://images.unsplash.com/photo-1579306194872-64d3b7bac4c2?auto=format&fit=crop&q=80&w=600" },
     { name: "Lemon Raspberry Delight", price: "From $50", desc: "Zesty lemon cake filled with fresh raspberry compote and lemon cream.", img: "https://images.unsplash.com/photo-1559620192-032c4bc4674e?auto=format&fit=crop&q=80&w=600" },
     { name: "Salted Caramel Pecan", price: "From $60", desc: "Brown butter cake layers with salted caramel and toasted pecans.", img: "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&q=80&w=600" },
     { name: "Red Velvet Dream", price: "From $50", desc: "Classic red velvet with a smooth, tangy cream cheese frosting.", img: "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?auto=format&fit=crop&q=80&w=600" },
